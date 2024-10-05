@@ -23,5 +23,3 @@ Key Features:
 <br/>
 <img src = "https://github.com/akunte10/AstroApp/assets/106234497/338242bd-e6fa-43c8-9619-4c7a6e546f0c" width = 280, height = 580>
 <img src = "https://github.com/akunte10/AstroApp/assets/106234497/81fc7dbd-7d8e-4d58-9f1a-259be300e6dc.png" width = 280, height = 580>
-
-

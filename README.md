@@ -1,5 +1,4 @@
 # AstroApp
-List and Details screen feature
 
 This App has a small feature to fetch list of **Astronomy Picture of the Day** for the last 7 days and display its details.
 
